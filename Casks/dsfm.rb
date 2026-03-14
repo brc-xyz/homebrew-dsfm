@@ -1,6 +1,6 @@
 cask "dsfm" do
-  version "0.2.0"
-  sha256 "6675fa37bc551c1918bd6eb6202d94a1b53fd3e116d880ace36d55892a1f0899"
+  version "0.3.1"
+  sha256 "485afcf7264736bed93b97d365d7aee424e2898243283e9b56d4dc586d38f0b9"
 
   url "https://github.com/brc-xyz/dsfm/releases/download/v#{version}/DSFM-#{version}.dmg",
       verified: "github.com/brc-xyz/dsfm/"
